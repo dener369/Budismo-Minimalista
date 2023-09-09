@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Budismo - Resumo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        h2 {
+            color: #2f4f4f;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Budismo - Resumo</h1>
+
+    <h2>As Quatro Nobres Verdades</h2>
+    <ul>
+        <li><strong>1. A verdade do sofrimento (Dukkha):</strong> O sofrimento é uma parte inerente da vida.</li>
+        <li><strong>2. A origem do sofrimento (Samudaya):</strong> O sofrimento surge do desejo e do apego.</li>
+        <li><strong>3. A cessação do sofrimento (Nirodha):</strong> É possível acabar com o sofrimento.</li>
+        <li><strong>4. O caminho para a cessação do sofrimento (Magga):</strong> O Nobre Caminho Óctuplo é o caminho que leva ao fim do sofrimento.</li>
+    </ul>
+
+    <h2>A Joia Tríplice</h2>
+    <ul>
+        <li><strong>1. Buda:</strong> O mestre iluminado que alcançou a iluminação e compartilhou seus ensinamentos com o mundo.</li>
+        <li><strong>2. Dharma:</strong> Os ensinamentos do Buda, que mostram o caminho para a iluminação.</li>
+        <li><strong>3. Sangha:</strong> A comunidade de praticantes que seguem os ensinamentos do Buda e se apoiam mutuamente no caminho para a iluminação.</li>
+    </ul>
+
+    <h2>Os Cinco Preceitos</h2>
+    <ul>
+        <li><strong>1. Abster-se de matar seres vivos.</strong></li>
+        <li><strong>2. Abster-se de tomar o que não é dado.</strong></li>
+        <li><strong>3. Abster-se de má conduta sexual.</strong></li>
+        <li><strong>4. Abster-se de mentir ou falar falsamente.</strong></li>
+        <li><strong>5. Abster-se de consumir substâncias intoxicantes que prejudiquem a mente.</strong></li>
+    </ul>
+
+    <h2>O Nobre Caminho Óctuplo</h2>
+    <ul>
+        <li><strong>1. Compreensão correta:</strong> Compreender as coisas como elas realmente são, de acordo com as Quatro Nobres Verdades.</li>
+        <li><strong>2. Pensamento correto:</strong> Pensar em renúncia, desenvolver nobres qualidades e não ter má vontade em relação aos outros.</li>
+        <li><strong>3. Fala correta:</strong> Abster-se de mentir, falar em vão, usar palavras ásperas ou caluniosas. Falar a verdade e ter uma fala construtiva, harmoniosa e conciliadora.</li>
+        <li><strong>4. Ação correta:</strong> Abster-se de destruir a vida, tomar o que não foi dado e ter conduta sexual imprópria.</li>
+        <li><strong>5. Meio de vida correto:</strong> Ter um modo de vida equilibrado, nem perdulário nem mesquinho, que não cause mal a outros seres. Inclui ter uma profissão que não esteja em desacordo com os princípios.</li>
+        <li><strong>6. Esforço correto:</strong> Abandonar estados prejudiciais e cultivar estados benéficos.</li>
+        <li><strong>7. Atenção correta:</strong> Desenvolver consciência do corpo, fala e mente em linha com o caminho óctuplo.</li>
+        <li><strong>8. Concentração correta:</strong> Ter estabilidade e foco mental.</li>
+    </ul>
+</body>
+</html>
